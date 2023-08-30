@@ -1,2 +1,2 @@
 # Ticket-Booking
-This is an android ticket booking application. This app is created on Android Studio using Java.For database, I used SQLite Database.
+This is an android ticket booking application. This application facilitates ticket booking by enabling users to select their preferred departure and destination points. It then displays search results showcasing all accessible bus choices, including fares, empowering users to pick the most suitable option. This app is created on Android Studio using Java.For database, I used SQLite Database.
